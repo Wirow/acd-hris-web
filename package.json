@@ -1,0 +1,11 @@
+{
+  "name": "acd-hris-web",
+  "version": "1.0.0",
+  "description": "Acdn-hris web application",
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "author": "Nemyt",
+  "license": "ISC",
+  "homepage": "https://github.com/Wirow/acd-hris-web#readme"
+}

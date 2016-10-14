@@ -1,0 +1,11 @@
+{
+  "name": "acd-hris-web",
+  "description": "Acdn-hris web application",
+  "authors": [
+    "Nemyt"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
