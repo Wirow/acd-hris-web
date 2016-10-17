@@ -1,0 +1,8 @@
+{
+  "development":{
+    "apiRoot": "https://sh.agedcaredn.com.au"
+  },
+  "production":{
+    "apiRoot": "https://sh.agedcaredn.com.au"
+  }
+}

@@ -7,5 +7,9 @@
   },
   "author": "Nemyt",
   "license": "ISC",
-  "homepage": "https://github.com/Wirow/acd-hris-web#readme"
+  "homepage": "https://github.com/Wirow/acd-hris-web#readme",
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1"
+  }
 }
